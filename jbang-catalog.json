@@ -1,7 +1,7 @@
 {
   "aliases": {
     "pdf-review-comments": {
-      "script-ref": "pdf-review-comments/PdfReviewComments.java",
+      "script-ref": "skills/pdf-review-comments/PdfReviewComments.java",
       "description": "Extract olive-highlighted text and its comments from a PDF into markdown."
     }
   }

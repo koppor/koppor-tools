@@ -17,3 +17,6 @@ Thumbs.db
 
 # Generated review output
 *.md.out
+
+# Local sample PDFs (not distributed)
+*.pdf
